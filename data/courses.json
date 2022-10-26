@@ -15,5 +15,107 @@
             "badge": "Excellent"
         },
         "enroll": 2450
+    },
+    {
+        "id": "02",
+        "image_url": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
+        "name": "Javascript For Beginners",
+        "details": "Learn JavaScript and become a Software Engineer. Guaranteed jobs for best students! Learn JavaScript by Playing an Online Game. Register and Become a Full Stack Dev. React Native. Node.js. React.js. Courses: Node.js, React.js, React Native, Frontend Development.",
+        "price": "5200",
+        "author": {
+            "name": "Mosh Hamedani",
+            "published_date": "2022-10-24 17:27:34",
+            "img": "https://folajomiballo.com/wp-content/uploads/2022/07/Code-with-mosh-review-1.jpg"
+        },
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "enroll": 1455
+    },
+    {
+        "id": "03",
+        "image_url": "https://static.javatpoint.com/core/images/what-is-core-java.png",
+        "name": "Java For Beginners",
+        "details": "Java Programming language has several features which other programming languages don’t have. Java receives updates regularly which makes it more robust and future proof",
+        "price": "4300",
+        "author": {
+            "name": "Mosh Hamedani",
+            "published_date": "2022-09-24 17:27:34",
+            "img": "https://folajomiballo.com/wp-content/uploads/2022/07/Code-with-mosh-review-1.jpg"
+        },
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "enroll": 1230
+    },
+    {
+        "id": "04",
+        "image_url": "https://miro.medium.com/max/1400/1*KtzeX-00fqY1eWMiXeZYag.png",
+        "name": "C++ For Beginners",
+        "details": "C++ is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs. C++ runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX.",
+        "price": "3280",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-14 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "enroll": 760
+    },
+    {
+        "id": "05",
+        "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--gB37jKlO--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k13ef02pdeqhsu8ba39n.png",
+        "name": "C# For Beginners",
+        "details": "Learn C# programming from an expert in the industry. Get the tools, see how to write code, debug features, explore customizations, and more. For newer videos head over to dot.net/videos",
+        "price": "4250",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "enroll": 2450
+    },
+    {
+        "id": "06",
+        "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200309202057/How-To-Learn-ReactJS-A-Complete-Guide-For-Beginners.jpg",
+        "name": "React js For Beginners to Advance",
+        "details": "ReactJS tutorial provides basic and advanced concepts of ReactJS. Currently, ReactJS is one of the most popular JavaScript front-end libraries which has a strong foundation and a large community.",
+        "price": "5150",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "enroll": 5388
+    },
+    {
+        "id": "07",
+        "image_url": "https://www.concettolabs.com/blog/wp-content/uploads/2018/02/imageedit_1_7974903516-1-1.png",
+        "name": "Laravel For Beginners",
+        "details": "Laravel is a powerful MVC PHP framework, designed for developers who need a simple and elegant toolkit to create full-featured web applications. Laravel was created by Taylor Otwell. This is a brief tutorial that explains the basics of Laravel framework.",
+        "price": "4100",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "enroll": 600
     }
 ]
